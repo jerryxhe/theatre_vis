@@ -1,2 +1,2 @@
 # theatre_vis
-A visualization of Theatre ticket sales from 2009 to 2017
+A visualization of Theatre ticket sales from 1984 to 2017
